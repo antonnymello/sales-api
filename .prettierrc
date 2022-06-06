@@ -4,5 +4,5 @@
   "singleQuote": false,
   "printWidth": 80,
   "arrowParens": "avoid",
-  "prettier/prettier": ["error", { "endOfLine": "auto" }]
+  "prettier/prettier": ["error", { "endOfLine": "error" }]
 }
